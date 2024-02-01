@@ -63,7 +63,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum labore error, e
                     <li><strong className="text-uppercase">Adress:</strong> 2558 Greenwood Lane, 120 Cameron Park, CA 95682</li>
                     <li><strong className="text-uppercase">Mail:</strong> Info@nicksroastingco.com</li>
                     <li><strong className="text-uppercase">Phone:</strong> 1 800 297 4001</li>
-                    <li><strong className="text-uppercase">Fax id:</strong> +9876543210</li>
+                    <li><strong className="text-uppercase">Fax id:</strong> +9876543211</li>
                   </ul>
                 </div>
               </div>
