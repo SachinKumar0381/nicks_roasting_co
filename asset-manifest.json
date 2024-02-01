@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/nicks_roasting_co/static/css/main.b0048e0b.css",
+    "main.js": "/nicks_roasting_co/static/js/main.973a7879.js",
+    "static/js/787.c12c7102.chunk.js": "/nicks_roasting_co/static/js/787.c12c7102.chunk.js",
+    "static/media/bg_08.png": "/nicks_roasting_co/static/media/bg_08.d712c6b5b76eac7ca705.png",
+    "static/media/bg_06.png": "/nicks_roasting_co/static/media/bg_06.c43622602ebf845d3fae.png",
+    "static/media/logo_white_1x.png": "/nicks_roasting_co/static/media/logo_white_1x.86e79c92e2ea7c75e0f3.png",
+    "static/media/fa-light-300.ttf": "/nicks_roasting_co/static/media/fa-light-300.e4e189103bc7da2cfb49.ttf",
+    "static/media/fa-regular-400.ttf": "/nicks_roasting_co/static/media/fa-regular-400.c03c56dcbc7a76153c78.ttf",
+    "static/media/fa-solid-900.ttf": "/nicks_roasting_co/static/media/fa-solid-900.d546d748f7c0e96132d4.ttf",
+    "static/media/bg_07.png": "/nicks_roasting_co/static/media/bg_07.5942586ff1d22ff59845.png",
+    "static/media/fa-brands-400.ttf": "/nicks_roasting_co/static/media/fa-brands-400.2008e6316b604f95d937.ttf",
+    "static/media/coffe_beans_image.png": "/nicks_roasting_co/static/media/coffe_beans_image.40c6a34489ee96104bf0.png",
+    "static/media/11062b_~mv2.webp": "/nicks_roasting_co/static/media/11062b_54b0313b65a44b479c9f065e126f7c06~mv2.e36d2615ab976ab71b18.webp",
+    "static/media/bbd48b_~mv2.webp": "/nicks_roasting_co/static/media/bbd48b_196047ee5e4f4c1299794cc275f948ba~mv2.8ce0c5a6b0859eab1c94.webp",
+    "static/media/coffee_table_image.webp": "/nicks_roasting_co/static/media/coffee_table_image.99293f23f4733da6ff4b.webp",
+    "static/media/Couple_Drinking_Coffee.webp": "/nicks_roasting_co/static/media/Couple_Drinking_Coffee.c76808da8178cf7e4c9d.webp",
+    "static/media/img_01.png": "/nicks_roasting_co/static/media/img_01.7ff34a300784e69aa954.png",
+    "static/media/slick.svg": "/nicks_roasting_co/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/nicks_roasting_co/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/nicks_roasting_co/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/ui-bg_flat_0_aaaaaa_40x100.html": "/nicks_roasting_co/static/media/ui-bg_flat_0_aaaaaa_40x100.ca2e10742c8f5a6116f2.html",
+    "static/media/slick.woff": "/nicks_roasting_co/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/nicks_roasting_co/index.html",
+    "main.b0048e0b.css.map": "/nicks_roasting_co/static/css/main.b0048e0b.css.map",
+    "main.973a7879.js.map": "/nicks_roasting_co/static/js/main.973a7879.js.map",
+    "787.c12c7102.chunk.js.map": "/nicks_roasting_co/static/js/787.c12c7102.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0048e0b.css",
+    "static/js/main.973a7879.js"
+  ]
+}
