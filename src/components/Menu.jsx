@@ -26,14 +26,14 @@ const Menu = () => {
             </div>
 
             <ul className="filters-button-group style_2 ul_li_center wow fadeInUp" data-wow-delay=".4s">
-              <li><button className="button text-uppercase active" data-filter="*">all</button></li>
-              <li><button className="button text-uppercase" data-filter=".chocolate">tea</button></li>
+              <li><button className="button text-uppercase active" data-filter=".chocolate">tea</button></li>
               <li><button className="button text-uppercase" data-filter=".coffee">coffee</button></li>
               <li><button className="button text-uppercase" data-filter=".sandwiches">iced</button></li>
               <li><button className="button text-uppercase" data-filter=".sweets">blended</button></li>
               <li><button className="button text-uppercase" data-filter=".blacktea">energy</button></li>
               <li><button className="button text-uppercase" data-filter=".greantea">boba</button></li>
               <li><button className="button text-uppercase" data-filter=".greantea">food</button></li>
+              <li><button className="button text-uppercase" data-filter="*">all</button></li>
             </ul>
 
             <div className="recipe_item_grid grid wow fadeInUp" data-wow-delay=".5s">

@@ -25,7 +25,7 @@ const Navbar = ({handleSidebar}) => {
     }
   return (
     <div>
-        <header className="header_section style_2">
+        <header className="header_section style_2" style={{position:"fixed", zIndex:"9999"}}>
         <div className="content_wrap">
           <div className="container maxw_1560">
             <div className="row align-items-center">
@@ -102,7 +102,7 @@ const Navbar = ({handleSidebar}) => {
                       </button>
                     </li>
                     <li>
-                      <a className="btn btn_primary text-uppercase" href="#">Contact Us</a>
+                      <a className="btn btn_primary text-uppercase" href="#">Login</a>
                     </li>
                   </ul>
                 </nav>
