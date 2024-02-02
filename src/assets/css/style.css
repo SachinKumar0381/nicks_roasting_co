@@ -1304,12 +1304,23 @@ button {
 }
 .main_menu_list > li > a {
   display: block;
-  color: #999999;
+  color: white;
   font-size: 14px;
   font-weight: 700;
   padding: 15px 0px;
   text-transform: uppercase;
   transition: 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+}
+.main_menu_list_color > li > a {
+  color: white;
+}
+.main_menu_list_color_2 > li > a{
+  color: black;
+}
+@media (max-width: 420px){
+  .main_menu_list > li > a {
+    color: black;
+  }
 }
 .main_menu_list > li:hover > a,
 .main_menu_list > li.active > a {
@@ -5257,4 +5268,7 @@ blockquote i {
   height: 100%;
   object-fit:cover;
   z-index: -9;
+}
+.clr_black{
+  color: black;
 }
