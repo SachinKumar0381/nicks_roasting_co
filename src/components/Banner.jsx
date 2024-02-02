@@ -11,14 +11,9 @@ import "../assets/css/style.css";
 
 import bg_06 from "../assets/images/backgrounds/bg_06.png";
 import scratch_01 from "../assets/images/decorations/scratch_01.png";
-import item_01 from "../assets/images/shop/11062b_2974cb752e974ea192d619ea0d64120d~mv2.webp";
-import item_02 from "../assets/images/shop/11062b_54b0313b65a44b479c9f065e126f7c06~mv2.webp";
-import item_03 from "../assets/images/shop/11062b_ca88a6f079324d7c98963f33c1f2d48f~mv2.webp";
 import BackGroundSlider from './BackGroundSlider';
-import img_03 from "../assets/images/banner/image_03.png";
 import img_05 from "../assets/images/banner/image_05.jpg";
 import img_06 from "../assets/images/banner/image_06.jpg";
-import img_07 from "../assets/images/banner/image_07.jpg";
 import img_08 from "../assets/images/banner/image_08.jpg";
 import img_09 from "../assets/images/banner/image_09.jpg";
 
