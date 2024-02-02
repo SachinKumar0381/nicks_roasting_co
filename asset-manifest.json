@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nicks_roasting_co/static/css/main.b0048e0b.css",
-    "main.js": "/nicks_roasting_co/static/js/main.299e3365.js",
+    "main.css": "/nicks_roasting_co/static/css/main.778237b6.css",
+    "main.js": "/nicks_roasting_co/static/js/main.a6803e5c.js",
     "static/js/787.c12c7102.chunk.js": "/nicks_roasting_co/static/js/787.c12c7102.chunk.js",
     "static/media/image_08.jpg": "/nicks_roasting_co/static/media/image_08.f8751662bb561b901c83.jpg",
     "static/media/image_06.jpg": "/nicks_roasting_co/static/media/image_06.475b724a48b948c8e9b8.jpg",
@@ -27,12 +27,12 @@
     "static/media/ui-bg_flat_0_aaaaaa_40x100.html": "/nicks_roasting_co/static/media/ui-bg_flat_0_aaaaaa_40x100.ca2e10742c8f5a6116f2.html",
     "static/media/slick.woff": "/nicks_roasting_co/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/nicks_roasting_co/index.html",
-    "main.b0048e0b.css.map": "/nicks_roasting_co/static/css/main.b0048e0b.css.map",
-    "main.299e3365.js.map": "/nicks_roasting_co/static/js/main.299e3365.js.map",
+    "main.778237b6.css.map": "/nicks_roasting_co/static/css/main.778237b6.css.map",
+    "main.a6803e5c.js.map": "/nicks_roasting_co/static/js/main.a6803e5c.js.map",
     "787.c12c7102.chunk.js.map": "/nicks_roasting_co/static/js/787.c12c7102.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0048e0b.css",
-    "static/js/main.299e3365.js"
+    "static/css/main.778237b6.css",
+    "static/js/main.a6803e5c.js"
   ]
 }
