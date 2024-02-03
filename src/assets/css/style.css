@@ -3829,7 +3829,7 @@ blockquote i {
   }
 
   .main_menu_list > li:not(:last-child) {
-    margin-right: 45px;
+    margin-right: 35px;
   }
 
   /* header - end */
@@ -3929,7 +3929,7 @@ blockquote i {
   }
 
   .main_menu_list > li:not(:last-child) {
-    margin-right: 30px;
+    margin-right: 20px;
   }
 
   .main_menu_list > li > a {
