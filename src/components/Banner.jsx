@@ -28,7 +28,7 @@ const Banner = () => {
   return (
     <section className="banner_section deco_wrap overflow-hidden" style={{backgroundImage: `url(${bg_06})`}}>
       <BackGroundSlider images={images}/>
-          <div className="deco_item" data-wow-delay=".4s" style={{zIndex:"9",paddingLeft:"10%",paddingBottom:"5vh"}}>
+          <div className="deco_item" data-wow-delay=".4s" style={{zIndex:"9",paddingLeft:"10%"}}>
             <div className="row">
               <div className="col-lg-5 col-md-6 col-sm-7">
                 <div className="banner_content text-white">
@@ -44,7 +44,7 @@ const Banner = () => {
               </div>
             </div>
           </div>
-          <div style={{zIndex:"9",width:"100%",position:"absolute",top:"99vh"}}>
+          <div className='banner-bottom-scratch'>
             <img src={scratch_01} alt="" />
           </div>
         </section>

@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum labore error, e
                 <div className="footer_widget footer_contact wow fadeInUp" data-wow-delay=".2s">
                   <h3 className="footer_widget_title text-uppercase">Contact us</h3>
                   <ul className="ul_li_block">
-                    <li><strong className="text-uppercase">Adress:</strong> 2558 Greenwood Lane, 120 Cameron Park, CA 95682</li>
+                    <li><strong className="text-uppercase">Address:</strong> 2558 Greenwood Lane, 120 Cameron Park, CA 95682</li>
                     <li><strong className="text-uppercase">Mail:</strong> Info@nicksroastingco.com</li>
                     <li><strong className="text-uppercase">Phone:</strong> 1 800 297 4001</li>
                     <li><strong className="text-uppercase">Fax id:</strong> +9876543211</li>
@@ -77,15 +77,15 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum labore error, e
                       <span>7:00 - 18:00</span>
                     </li>
                     <li>
-                      tuesday
+                      Tuesday
                       <span>7:00 - 18:00</span>
                     </li>
                     <li>
-                      wednestday
+                      Wednesday
                       <span>7:00 - 18:00</span>
                     </li>
                     <li>
-                      Thusday
+                      Thursday
                       <span>7:00 - 18:00</span>
                     </li>
                     <li>
@@ -93,7 +93,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum labore error, e
                       <span>7:00 - 18:00</span>
                     </li>
                     <li>
-                      saterday
+                      Saturday
                       <span>7:00 - 17:00</span>
                     </li>
                     <li>

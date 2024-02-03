@@ -173,8 +173,8 @@ h6 {
 /* section decoration wrap - end */
 /* spacing settings - start */
 .sec_ptb_120 {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .sec_ptb_80 {
@@ -1384,7 +1384,7 @@ button {
 }
 
 .footer_widget_area {
-  padding: 110px 0px;
+  padding: 50px 0px;
 }
 
 .footer_widget_title {
@@ -1477,7 +1477,7 @@ button {
 }
 .text-white .footer_bottom {
   padding-top: 12px;
-  padding-bottom: 116px;
+  padding-bottom: 12px;
   background-color: transparent;
   border-top: 2px solid rgba(255, 255, 255, 0.15);
 }
@@ -1828,6 +1828,7 @@ button {
 .banner_section .banner_content {
   z-index: 2;
   position: relative;
+  margin-top: 100px;
 }
 .banner_section .banner_title {
   line-height: 1;
@@ -1857,7 +1858,7 @@ button {
 /* feature section - start
 ================================================== */
 .feature_primary_section2 {
-  min-height: 700px;
+  min-height: 600px;
   padding-top: 40px;
   padding-bottom: 120px;
   background-size: cover;
@@ -1995,7 +1996,7 @@ button {
   font-family: "Oswald", sans-serif;
 }
 .about_image2 .year_content_wrap strong {
-  color: #ffffff;
+  color: #c7a17a;
   line-height: 1;
   font-size: 126px;
   font-weight: bold;
@@ -4060,7 +4061,7 @@ blockquote i {
 
   .text-white .footer_bottom {
     padding-top: 15px;
-    padding-bottom: 80px;
+    padding-bottom: 20px;
   }
 
   .footer_opening_time,
@@ -4159,7 +4160,7 @@ blockquote i {
   }
 
   .banner_section {
-    min-height: 700px;
+    min-height: 464px;
   }
 
   .deco_wrap .deco_big_text {
@@ -5271,4 +5272,36 @@ blockquote i {
 }
 .clr_black{
   color: black;
+}
+.banner-bottom-scratch{
+  z-index: 9;
+  width: 100%;
+  position: absolute;
+  top: 98%;
+}
+
+.center-btn{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+.btn.btn_border.filter-btn{
+  padding: 12px 10px;
+}
+.flex-display{
+  display: flex;
+  gap: 10px;
+  justify-content: end;
+}
+
+@media screen and (max-width: 1024px) {
+  .banner-bottom-scratch{
+    z-index: 9;
+    width: 100%;
+    position: absolute;
+    top: 98%;
+  }
+  .btn.btn_border.filter-btn{
+    padding: 10px 10px;
+  }
 }

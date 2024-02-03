@@ -8,6 +8,7 @@ import "../assets/css/slick-theme.css";
 import "../assets/css/magnific-popup.css";
 import "../assets/css/jquery-ui.css";
 import "../assets/css/style.css";
+import { CiFilter } from "react-icons/ci";
 
 import item_01 from "../assets/images/shop/11062b_2974cb752e974ea192d619ea0d64120d~mv2.webp";
 import item_02 from "../assets/images/shop/11062b_54b0313b65a44b479c9f065e126f7c06~mv2.webp";
@@ -26,9 +27,12 @@ const Shop = () => {
                   </h3>
                 </div>
 
-                <div className="col-lg-6 col-md-4">
+                <div className="col-lg-6 col-md-4 flex-display">
                   <div className="abtn_wrap text-lg-end text-md-end wow fadeInUp" data-wow-delay=".3s">
                     <a className="btn btn_border border_black" href="#">See all product</a>
+                  </div>
+                  <div className="abtn_wrap text-lg-end text-md-end wow fadeInUp" data-wow-delay=".3s">
+                    <a className="btn btn_border border_black filter-btn" href="#"><CiFilter size="2em"/></a>
                   </div>
                 </div>
               </div>

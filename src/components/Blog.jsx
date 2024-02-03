@@ -83,6 +83,9 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore quam doloribus
               </div>
             </div>
           </div>
+          <div className="btns_group ul_li wow fadeInUp center-btn" data-wow-delay=".4s">
+                    <div><a className="btn btn_primary text-uppercase" href="#">SEE ALL</a></div>
+                  </div>
         </section>
   )
 }
