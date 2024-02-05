@@ -18,7 +18,7 @@ import scratch_01 from "../assets/images/decorations/scratch_01.png";
 
 const Feature = () => {
   return (
-    <section className="feature_primary_section2 deco_wrap" style={{backgroundImage: `url(${bg_07})`}}>
+    <section className="feature_primary_section2 deco_wrap">
           <div className="container">
             <div className="row">
               <div className="col-lg-3 col-md-4 col-sm-6">
