@@ -1995,7 +1995,7 @@ button {
   font-family: "Oswald", sans-serif;
 }
 .about_image2 .year_content_wrap strong {
-  color: #c7a17a;
+  color: rgb(243, 241, 241);
   line-height: 1;
   font-size: 126px;
   font-weight: bold;
