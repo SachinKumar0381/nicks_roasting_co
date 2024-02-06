@@ -5291,7 +5291,10 @@ blockquote i {
   gap: 10px;
   justify-content: end;
 }
-
+.feature_primary_section2 .section_title{
+  margin-bottom: -50px;
+  margin-top: 50px;
+}
 @media screen and (max-width: 1024px) {
   .banner-bottom-scratch{
     z-index: 9;
@@ -5301,5 +5304,14 @@ blockquote i {
   }
   .btn.btn_border.filter-btn{
     padding: 10px 10px;
+  }
+  .feature_primary_section2 .section_title{
+    margin-bottom: 0px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .feature_primary_section2 .section_title{
+    margin-bottom: 0px;
   }
 }
