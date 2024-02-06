@@ -36,7 +36,7 @@ body {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 80%;
 }
 
 .container_boxed {
@@ -2258,6 +2258,7 @@ button {
   background-color: transparent;
 }
 .text-white .recipe_item.style_2 .content_col:last-child:before {
+  width: 60%;
   border-top: 1px dashed #ffffff;
 }
 .text-white .recipe_item.style_2 .item_image {
@@ -2334,6 +2335,7 @@ button {
   background-color: rgba(0, 0, 0, 0.6);
 }
 .offer_video img {
+  width: 100%;
   transition: 0.6s cubic-bezier(0.25, 1, 0.5, 1);
 }
 .offer_video:hover img {
@@ -2776,7 +2778,6 @@ button {
   transition-delay: 0.5s;
 }
 .shop_card .item_image {
-  height: 290px;
   display: flex;
   position: relative;
   border-radius: 5px;
@@ -2785,7 +2786,8 @@ button {
   background-color: #f3f3f3;
 }
 .shop_card .item_image img {
-  margin: auto;
+  /* margin: auto; */
+  width: 100%;
   transition: 0.6s cubic-bezier(0.25, 1, 0.5, 1);
 }
 .shop_card:hover .item_image img {
@@ -4128,7 +4130,7 @@ blockquote i {
   }
 
   .shop_card .btn {
-    padding: 9px 15px;
+    padding: 9px 5px;
   }
 
   /* home 1 - end */
@@ -5275,7 +5277,10 @@ blockquote i {
   z-index: 9;
   width: 100%;
   position: absolute;
-  top: 98%;
+  top: 99%;
+}
+.banner-bottom-scratch img{
+  width: 100%;
 }
 
 .center-btn{
@@ -5308,10 +5313,99 @@ blockquote i {
   .feature_primary_section2 .section_title{
     margin-bottom: 0px;
   }
+  .about_image2 {
+    position: relative;
+    padding-left: 67px;
+}
+}
+
+@media screen and (max-width: 1440px) {
+  .banner-bottom-scratch{
+    z-index: 9;
+    width: 100%;
+    position: absolute;
+    top: 98%;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .deco_wrap .scratch_top {
+    top: -1px;
+}
 }
 
 @media screen and (max-width: 1024px) {
   .feature_primary_section2 .section_title{
     margin-bottom: 0px;
   }
+
+  .about_image2 .year_content_wrap strong {
+    color: rgb(243, 241, 241);
+    line-height: 1;
+    font-size: 104px;
+    font-weight: bold;
+    font-family: "Oswald", sans-serif;
+    text-shadow: 0px 15px 21px rgba(84, 49, 55, 0.25);
+  }
+
+  .about_image2 .year_content_wrap {
+    top: 30px;
+    left: 0px;
+    z-index: 1;
+    position: absolute;
+  }
+
+  shop_card .item_price {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 4px 20px;
+    border-radius: 3px;
+    background-color: #c7a17a;
+}
+}
+
+@media screen and (max-width: 768px) {
+
+  .about_image2 .year_content_wrap {
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    position: absolute;
+  }
+
+  .about_image2 .year_content_wrap strong {
+    color: rgb(243, 241, 241);
+    line-height: 1;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: "Oswald", sans-serif;
+    text-shadow: 0px 15px 21px rgba(84, 49, 55, 0.25);
+  }
+}
+
+@media screen and (max-width: 320px) {
+
+  .about_image2 .year_content_wrap {
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    position: absolute;
+  }
+
+  .about_image2 .year_content_wrap strong {
+    color: rgb(243, 241, 241);
+    line-height: 1;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Oswald", sans-serif;
+    text-shadow: 0px 15px 21px rgba(84, 49, 55, 0.25);
+  }
+  .shop_card .btns_group {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 5px;
+}
 }
